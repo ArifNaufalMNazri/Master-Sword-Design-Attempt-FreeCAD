@@ -18,3 +18,16 @@ This took the longest time. I used several datum planes, pocket operations and m
 <img src="./Images/CrossGuard-DatumPlane%26Sketch.png">
 <img src="./Images/FinalCrossGuard.png">
 </p>
+
+## The Grip
+Nothing much to say about the Grip. I mean, it's just a cylinder. 
+<p align="center">
+<img src="./Images/Grip.png">
+</p>
+
+## The Pommel
+The pommel is just a cylinders stacked on each other, and then I applied a fillet to them make them more rounded and achieve the cone at the bottom. 
+<p align="center">
+<img src="./Images/PommelSketch.png">
+<img src="./Images/FinalPommel.png">
+</p>
