@@ -31,3 +31,13 @@ The pommel is just a cylinders stacked on each other, and then I applied a fille
 <img src="./Images/PommelSketch.png">
 <img src="./Images/FinalPommel.png">
 </p>
+
+## Assembly
+This was my first time working with multiple parts in a 3D design project. I used FreeCAD's assembly mode and connected the parts using fixed joints. 
+<p align="center">
+  <img src="./Images/AssemblingJoins.png">
+  <img src="./Images/FinalAssembly.png">
+</p>
+
+## Final thoughts
+I mainly made this project to learn more about 3D design and CAD, but in a fun way, and I'm glad it was. Though I won't be 3D printing it any time soon, I like to see this as my first step towards 3D printing actual parts in the future. 
