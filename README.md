@@ -5,6 +5,8 @@ I wanted to improve my 3D design skills, so I used FreeCAD to try and design the
 <img src="./Images/MasterSwordImage-3DDesign.png" height = 800>
 </p>
 
+Link to CAD Files: [Press here](https://github.com/ArifNaufalMNazri/Master-Sword-Design-Attempt-FreeCAD/tree/main/CADFolder)
+
 ## The blade
 I started this part first since it was the largest. I padded twice on it to give the illusion of the metal swooping down like it is in the video game, since I didn't know how to achieve that in FreeCAD(but hopefully I will one day). I used mirroring to reduce symmetry errors. [Initial sketch on left, Final Blade on right]
 <p align ="center">
